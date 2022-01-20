@@ -1,10 +1,10 @@
 {
-  "name": "depapp",
-  "version": "2.2.0",
-  "description": "depapp's business card",
+  "name": "chr1s",
+  "version": "1.0.0",
+  "description": "Chr1s's business card",
   "main": "bin/card.js",
   "bin": {
-    "depapp": "./bin/card.js"
+    "chr1s": "./bin/card.js"
   },
   "scripts": {
     "build": "node build.js",
@@ -17,12 +17,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/depapp/npx-depapp.git"
+    "url": "git+https://github.com/chr1sdev/npx-chr1s.git"
   },
   "bugs": {
-    "url": "https://github.com/depapp/npx-depapp/issues"
+    "url": "https://github.com/chr1sdev/npx-chr1s/issues"
   },
-  "homepage": "https://github.com/depapp/npx-depapp#readme",
+  "homepage": "https://github.com/chr1sdev/npx-chr1s#readme",
   "devDependencies": {
     "boxen": "^5.0.0",
     "chalk": "^4.1.0",
