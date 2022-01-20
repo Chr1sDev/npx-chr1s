@@ -76,7 +76,7 @@ node_modules/
 jspm_packages/
 
 # Dependency Tracking Files
-package-lock.js
+package-lock.json
 
 # TypeScript v1 declaration files
 typings/
