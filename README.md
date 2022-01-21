@@ -5,7 +5,7 @@ npx chr1s
 ```
 
 <p align="center">
-  <img width="642" alt="npx chr1s" src="https://user-images.githubusercontent.com/6134774/117261311-36966080-ae7a-11eb-8431-551d897e7e20.png">
+  <img width="642" alt="npx chr1s" src="https://chr1s.dev/sharex/files/3MRZfnf.png">
 </p>
 
 ### thanks to
