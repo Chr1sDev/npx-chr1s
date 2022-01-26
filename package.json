@@ -1,6 +1,6 @@
 {
   "name": "chr1s",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chr1s's business card",
   "main": "bin/card.js",
   "bin": {
